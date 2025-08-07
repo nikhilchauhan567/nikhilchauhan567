@@ -39,8 +39,6 @@
 
 <br clear="both">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilchauhan567/nikhilchauhan567/main/dist/snake.svg" alt="Snake animation" />
-</p>
+
 
 ###
